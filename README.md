@@ -58,8 +58,8 @@ A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/serkanyasr/ntt_rag_project.git
-cd ntt_rag_project
+git clone https://github.com/alihassan891u-lab/agentic_rag_project.git
+cd agentic_rag_project
 ```
 
 ### 2. Set Up Environment Variables
